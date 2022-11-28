@@ -1,9 +1,9 @@
 // I will start my proyect by creating some variables.
 
-let name = "Florencio";
+let names = "Florencio";
 let lastName = "Villanueva";
 
-console.log("Hello, my name is name lastName");
+console.log("Hello, my name is", names, lastName);
 
 let age = 32;
 let currentYear = 2022;
