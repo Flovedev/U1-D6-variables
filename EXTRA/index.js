@@ -12,7 +12,7 @@ console.log("Ingredients for 4 persons:\n");
 console.log("Spaghetti", spaghetti);
 console.log("Guanciale", guanciale);
 console.log("Very fresh egg yolks", eggs);
-console.log("Aged grated pecorino romano chese", eggs);
+console.log("Aged grated pecorino romano chese", chese);
 console.log("Raw back pepper", pepper);
 
 //Recipe:
